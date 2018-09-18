@@ -17,7 +17,7 @@ spec:
         color: blue
     spec:
       containers:
-      - image: fundamentalsofdocker/ch08-web:1.0
+      - image: appswithdockerandkubernetes/ch08-web:1.0
         name: web
         ports:
         - containerPort: 3000

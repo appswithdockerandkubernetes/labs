@@ -17,7 +17,7 @@ spec:
         color: green
     spec:
       containers:
-      - image: fundamentalsofdocker/ch13-web:2.0
+      - image: appswithdockerandkubernetes/ch13-web:2.0
         name: web
         ports:
         - containerPort: 3000
