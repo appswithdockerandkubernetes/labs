@@ -15,7 +15,7 @@ spec:
         service: db
     spec:
       containers:
-      - image: fundamentalsofdocker/ch08-db:1.0
+      - image: appswithdockerandkubernetes/ch08-db:1.0
         name: db
         ports:
         - containerPort: 5432
