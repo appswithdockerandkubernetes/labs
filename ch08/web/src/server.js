@@ -4,6 +4,7 @@ const os = require('os');
 const { Client } = require('pg');
 
 const app = express();
+app.use(express.static('src'))
 app.set('view engine', 'html');
 app.engine('html', mustacheExpress());          // register file extension 
 app.set('views', __dirname);

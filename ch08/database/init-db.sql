@@ -12,15 +12,15 @@ ALTER TABLE images
 ALTER ROLE dockeruser CONNECTION LIMIT -1;
 
 -- add image data
-INSERT INTO images (description, url) VALUES('cat image', 'http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr05/15/9/anigif_enhanced-buzz-26388-1381844103-11.gif');
-INSERT INTO images (description, url) VALUES('cat image', 'http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr01/15/9/anigif_enhanced-buzz-31540-1381844535-8.gif');
-INSERT INTO images (description, url) VALUES('cat image', 'http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr05/15/9/anigif_enhanced-buzz-26390-1381844163-18.gif');
-INSERT INTO images (description, url) VALUES('cat image', 'http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr06/15/10/anigif_enhanced-buzz-1376-1381846217-0.gif');
-INSERT INTO images (description, url) VALUES('cat image', 'http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr03/15/9/anigif_enhanced-buzz-3391-1381844336-26.gif');
-INSERT INTO images (description, url) VALUES('cat image', 'http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr06/15/10/anigif_enhanced-buzz-29111-1381845968-0.gif');
-INSERT INTO images (description, url) VALUES('cat image', 'http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr03/15/9/anigif_enhanced-buzz-3409-1381844582-13.gif');
-INSERT INTO images (description, url) VALUES('cat image', 'http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr02/15/9/anigif_enhanced-buzz-19667-1381844937-10.gif');
-INSERT INTO images (description, url) VALUES('cat image', 'http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr05/15/9/anigif_enhanced-buzz-26358-1381845043-13.gif');
-INSERT INTO images (description, url) VALUES('cat image', 'http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr06/15/9/anigif_enhanced-buzz-18774-1381844645-6.gif');
-INSERT INTO images (description, url) VALUES('cat image', 'http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr06/15/9/anigif_enhanced-buzz-25158-1381844793-0.gif');
-INSERT INTO images (description, url) VALUES('cat image', 'http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr03/15/10/anigif_enhanced-buzz-11980-1381846269-1.gif');
+INSERT INTO images (description, url) VALUES('cat image', 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Red_Kitten_01.jpg');
+INSERT INTO images (description, url) VALUES('cat image', 'http://upload.wikimedia.org/wikipedia/commons/1/14/Gatto_europeo4.jpg');
+INSERT INTO images (description, url) VALUES('cat image', 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Kitten_and_partial_reflection_in_mirror.jpg');
+INSERT INTO images (description, url) VALUES('cat image', 'http://upload.wikimedia.org/wikipedia/commons/2/22/Turkish_Van_Cat.jpg');
+INSERT INTO images (description, url) VALUES('cat image', 'http://upload.wikimedia.org/wikipedia/commons/d/dc/Cats_Petunia_and_Mimosa_2004.jpg');
+INSERT INTO images (description, url) VALUES('cat image', 'http://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg');
+INSERT INTO images (description, url) VALUES('cat image', 'http://upload.wikimedia.org/wikipedia/commons/9/9e/Green_eyes_kitten.jpg');
+INSERT INTO images (description, url) VALUES('cat image', 'https://upload.wikimedia.org/wikipedia/commons/e/e5/Golden_tabby_and_white_kitten_n02.jpg');
+INSERT INTO images (description, url) VALUES('cat image', 'http://upload.wikimedia.org/wikipedia/commons/c/cf/Stray_kitten_Rambo001.jpg');
+INSERT INTO images (description, url) VALUES('cat image', 'http://upload.wikimedia.org/wikipedia/commons/6/69/Four_sleeping_kittens.jpg');
+INSERT INTO images (description, url) VALUES('cat image', 'https://upload.wikimedia.org/wikipedia/commons/0/05/Silver_tabby_Scottish_Fold_Kitten.jpg');
+INSERT INTO images (description, url) VALUES('cat image', 'http://upload.wikimedia.org/wikipedia/commons/7/72/Golden_tabby_and_white_kitten_n03.jpg');
