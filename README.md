@@ -1,6 +1,6 @@
 # Containerize your Apps with Docker and Kubernetes
 
-<a href=""><img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/2942/2018/09/cover-1.png" alt="Effective DevOps with AWS Second Edition" height="256px" align="right"></a>
+<img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/2942/2018/09/cover-1.png" alt="Effective DevOps with AWS Second Edition" height="256px" align="right">
 
 This is the code repository for <b> Containerize your Apps with Docker and Kubernetes </b>, published by Packt.
 
